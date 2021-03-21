@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAGeneric", "CAGeneric.csproj", "{45A9CEAC-2BAF-456E-8F7B-E696BD33091D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A9CEAC-2BAF-456E-8F7B-E696BD33091D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A9CEAC-2BAF-456E-8F7B-E696BD33091D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A9CEAC-2BAF-456E-8F7B-E696BD33091D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A9CEAC-2BAF-456E-8F7B-E696BD33091D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2C16E1-23FF-4FEF-9EBB-D3C17BC40CA5}
+	EndGlobalSection
+EndGlobal
